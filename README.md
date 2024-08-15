@@ -2,3 +2,4 @@
 prueba #2
 edicion #2
 cambio en la nube para generar conflicto
+cambio para merge
